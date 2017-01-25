@@ -1,2 +1,2 @@
-# PR-App-test
-Repository for testing the Ada PR App
+# PR-App-test-individual
+Repository for testing the Ada PR App with individual project scenarios.
